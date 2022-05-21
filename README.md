@@ -1,2 +1,1 @@
-Stanford DL All Theory\n
-Bản tóm tắt nội dung mỗi bài học
+Stanford DL All Theory: Bản tóm tắt nội dung mỗi bài học
